@@ -1,0 +1,18 @@
+#Comandos do Git Bash
+
+ls: listar todas as pastas dentro de um repositório
+cd "nome da pasta": entra na pasta específica
+ctrl l: limpa a tela
+mkdir "nome": cria uma pasta nova
+ls -a: mostra arquivos ocultos
+dir: trás lista de pastas dentro do repositório que está situado
+cd: entra em um local específico no sistema
+cd .. : volta uma pasta
+tab: atalho para completar nomes
+echo "nome" > "nome.txt": cria uma arquivo
+del "nome da pasta": deleta tudo dentro da pasta
+rmdir "nome da pasta" /S /Q : remove a pasta
+
+git init: inicar o git na pasta para gerenciar
+git status: saber qual status do arquivo
+git commit: 
